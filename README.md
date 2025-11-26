@@ -55,5 +55,3 @@ Supports multiple plots:
 
 
 
-## 📁 Project Structure
-
